@@ -1,5 +1,5 @@
 # Find my Watch
-![Uploading 20221114_193046.jpg…]()
+
 
 Can detect when the Garmin Instinct (My Watch) is with the frame of the camerea. 
 ## The Algorithm
