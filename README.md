@@ -1,4 +1,5 @@
 # Find my Watch
+![Uploading 20221114_193046.jpg…]()
 
 Can detect when the Garmin Instinct (My Watch) is with the frame of the camerea. 
 ## The Algorithm
@@ -12,4 +13,5 @@ My program uses pythorch's Resnet18 model to classy a binary paramater, is the w
 3. upoload the find_watch_ai file into your Jupytar Notebook
 4. Go into Find_watch_Final and run the file
 
-[View a video explanation here](video link)
+demonstration
+https://youtu.be/1uXUNItkCwQ
